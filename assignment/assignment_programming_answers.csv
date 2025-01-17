@@ -1,1 +1,9 @@
-answers here
+job, medianPayPerYear, entryLevelEducation, experienceInRelatedJob, onTheJobTraining, numOfJobs, jobOutlookPercentage, employmentChange
+"Data Scientist", 108020, "Bachelor's degree", "None", "None", 202900, 36, 73100
+"Software Developer", 130160, "Bachelor's degree", "None", "None", 1897100, 17, 327900
+"Database Administrator", 117450, "Bachelor's degree", "None", "None", 141900, 9, 13200
+"Web Developer", "92750", "Bachelor's degree", "None", "None", 222600, 8, 18600
+"Information Security Analyst", 120360, "Bachelor's degree", "Less than 5 years","None", 180700, 33, 59100 
+"Computer and Information Research Scientists", 145080, "Master's degree", "None", "None", 36600, 26, 9400
+"Computer Hardware Engineer", 138080, "Bachelor's degree", None", "None", 84100, 7, 6100
+"Career and Technical Education Teacher", 63580, "Bachelor's degree", "Less than 5 years", "None", 223600, 0, -700
